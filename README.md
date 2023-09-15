@@ -5,11 +5,11 @@
  3. Integrating Stripe for real-time banking transactions.
 
 ## Tech Stack
-**Front-End**: React, Next, Shadcn
-**Back-End**: Next, Prisma, MySQL
-**Database Hosting**: PlanetScale
-**Image Hosting**: Cloudinary
-**Purchase API**: Stripe
+- **Front-End**: React, Next, Shadcn
+- **Back-End**: Next, Prisma, MySQL
+- **Database Hosting**: PlanetScale
+- **Image Hosting**: Cloudinary
+- **Purchase API**: Stripe
 
 ## Store Link
 [View Store](https://e-commerce-store-9ucp0j9mz-bruce-liushaopeng.vercel.app/)
