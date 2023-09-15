@@ -1,13 +1,20 @@
-# Overview
+## Overview
 
  1. Store front allowing user to view and purchase items
  2. Communicate with Admin page via API calls
  3. Integrating Stripe for real-time banking transactions.
 
-# Store Link
+## Tech Stack
+**Front-End**: React, Next, Shadcn
+**Back-End**: Next, Prisma, MySQL
+**Database Hosting**: PlanetScale
+**Image Hosting**: Cloudinary
+**Purchase API**: Stripe
+
+## Store Link
 [View Store](https://e-commerce-store-9ucp0j9mz-bruce-liushaopeng.vercel.app/)
 
-# Screenshots
+## Screenshots
 ### Home page
 <p align="center">
   <img src="https://res.cloudinary.com/dkktswnhi/image/upload/v1694793220/Store%20Front%20Pictures/Screenshot_2023-09-15_at_11.52.07_AM_bnrbub.png" />
@@ -38,7 +45,7 @@
   <img src="https://res.cloudinary.com/dkktswnhi/image/upload/v1694793736/Store%20Front%20Pictures/Screenshot_2023-09-15_at_12.01.57_PM_zhrnju.png" />
 </p>
 
-# Run local 
+## Run local 
 1. Clone Github Repo
 2. On project root folder run `npm install`
 3. On project root folder run `npm run dev` to start server
